@@ -69,7 +69,7 @@ img {
 }
 
 .hero .container {
-    background: url('./img\ /hero1.png') no-repeat;
+    background: url('/img/hero1.png') no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 600px;
